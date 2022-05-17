@@ -1,1 +1,1 @@
-Work with files and directs and directories
+Work with files and directories
